@@ -1,3 +1,3 @@
 def 
-  local_variable = "greeting
+  local_variable = "greeting"
   end

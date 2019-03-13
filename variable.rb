@@ -1,1 +1,3 @@
-phrase = "Hello World"
+def 
+  local_variable = "greeting
+  end
